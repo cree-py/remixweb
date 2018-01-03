@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+index.html linguist-vendored=true
+stylesheet.css linguist-vendored=true
+sleedyak.html linguist-vendored=true
+sleedstyle.css linguist-vendored=true
