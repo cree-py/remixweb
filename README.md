@@ -1,6 +1,7 @@
 # remixweb
 ### Developers:
 - [Victini](https://github.com/umbresp)
+- [Sleedyak](https://github.com/sleedyak)
 ### Contributing
 If you need support with the bot or would like to *contribute to RemixWeb*, join [the discord server](https://discord.gg/RzsYQ9f) and ask any of the people with the Creators/Contributors role. Make sure to read the [Contributor Covenant Code of Conduct](https://github.com/cree-py/creepy.py/wiki/Contributor-Covenant-Code-of-Conduct) and agree to it before becoming a contributor.
 ### BETA
