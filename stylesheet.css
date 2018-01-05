@@ -49,11 +49,20 @@ p, h1, h2, h5 {
 #header li a:hover {
     background-color: #7289D9;
 }
+
+#images a:link {
+    color: #333;
+}
+
+#images a:hover {
+    color: #333;
+}
+
 .active {
     background-color: #7289D9;
 }
 
-a:link{
+a:link {
 	color: white;
 }
 a:visited {
