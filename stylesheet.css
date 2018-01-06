@@ -50,12 +50,8 @@ p, h1, h2, h5 {
     background-color: #7289D9;
 }
 
-#images a:link {
-    color: #333;
-}
-
-#images a:hover {
-    color: #333;
+#images a img {
+    text-decoration: none;
 }
 
 .active {
